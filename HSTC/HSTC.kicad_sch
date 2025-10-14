@@ -4873,6 +4873,3402 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 395.224 284.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "003f76e4-f3f9-418f-81bf-02e65b6b2819")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 235.966 259.842 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "00dfc543-2b4a-47ab-9626-6d7126c524f4")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 421.64 210.7369 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0180a568-c8f5-4bb5-9b41-a2fc101295a2")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 247.142 116.586 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "02c72808-a2f9-44c9-a39e-350470461489")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 253.238 278.638 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "02fcf713-eb3f-46db-93b5-12009de06755")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 178.816 193.548 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0303fb41-0c62-48ca-a425-08d383ef238b")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 164.084 295.656 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0331cbb0-fea8-4d87-b921-f2cdbf2e2800")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 153.416 115.57 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "03add0b0-1ce9-4e6a-a514-3ca97c6427b1")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 127.254 127.762 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "03d567b5-df90-485f-b87b-d99069fc3780")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 407.924 172.974 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "045c0757-4794-4b3b-b607-c5bc7e35ecf1")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 121.92 197.612 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0517f4c2-a4cf-4523-9108-d3a063d85fc5")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 324.612 98.806 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "063b3758-e63a-4e42-8132-20b1e4f74d52")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 372.872 294.132 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0750f296-7bea-43f8-9923-cefc96278124")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 363.982 274.574 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "079e1e1f-f810-429e-a933-ed3531589041")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 298.45 160.274 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "09aeb4e3-2a45-4e18-ac36-95eea33e5820")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 344.932 158.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "09fbcde8-14f5-49a3-852b-49ff4781ba55")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 188.468 243.84 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0a7874ba-b0e4-4b1c-b974-2cf4bd958ff1")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 107.188 302.006 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0a7c71dd-af20-40ce-9c20-94ec9915c92a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 417.83 280.416 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0b732b99-80d4-4fb5-a6e7-d476d5e402f8")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 229.108 110.744 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0bd14767-c194-46e4-b49a-7c6e72825bae")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 412.496 256.54 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0be5d559-24c2-437e-851c-034e6245ab67")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 157.48 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0ea3f275-23da-42b7-8433-4e8d93cc4404")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 271.78 287.782 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0eaac383-d275-4f9b-82e2-6f9712e9ce57")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 211.582 153.924 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0f5ab0a3-ef8d-4921-bb76-2c1253e7e09b")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 147.066 161.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0f9574d7-0050-43a7-badf-c00c6e3fa29a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 454.66 262.128 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "11b8efc8-4967-4264-b50c-23c2924fbeed")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 248.92 208.534 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "129c9908-6a23-4520-9175-f5075a3a3770")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 305.308 233.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "12a30cc5-2571-43c0-b758-8290628ec97c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 200.66 118.364 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "12cce70a-a6a3-47c8-93ff-43936445a035")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 191.008 177.292 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "12e2bc5d-cf19-4e89-aece-813321cb991c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 230.124 91.948 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1321b3f4-232e-4c71-b375-abd7098187b9")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 208.788 194.056 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "140d9c6c-aefd-4f95-9d2d-16a02d65fca8")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 318.516 305.562 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "14578e39-4cb2-40ee-a136-c1448f510992")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 383.54 198.374 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "14d227c4-3df5-4c6f-ba28-b2604fc1d04f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 201.676 263.144 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "158f1ca6-7caf-40b9-bdb2-71e29cd2b199")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 400.05 252.476 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "15d13bda-8ac8-4b05-b8ef-0a3a6e0c331e")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 183.388 135.636 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "16bd4887-74bc-4d93-bdc7-9d1a0d481e2b")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 170.688 297.942 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "175ac86c-1464-4b49-8783-525527712489")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 365.2735 208.1213 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "17d90425-f5fc-4258-8b9c-e5829246721a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 152.4 131.6734 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "180371a5-9065-4ddc-b68d-1c812c229e33")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 215.392 117.856 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1825485a-8f7b-4e9a-aa7a-e7a8f1a3b059")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 289.814 253.746 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "182dc0a2-c61d-452e-8272-49189f496f5d")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 229.616 132.334 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "185775e3-6048-412d-b8e4-0b6cc748082c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 288.29 271.018 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "18b34111-1b5f-4539-8131-a05176b02a38")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 403.86 284.988 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1960bba6-beef-4342-be42-85a369b709e3")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 417.576 176.022 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1a065205-5a32-4e9c-9fad-4f9a0c26014d")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 411.988 240.792 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1be7804b-5110-470b-aa21-74258204e8c7")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 128.778 105.918 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1d408961-24cd-40a0-9553-b3df2e21ffdb")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 261.366 185.674 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1e7231ce-776a-4def-8692-f2095df00ed2")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 408.178 151.384 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1e93b14b-3e54-4e32-8335-84cba179be19")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 117.094 182.626 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1ea85c6f-c3e6-4818-956b-5a27b30ddb19")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 214.884 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2090a19a-2b04-4d56-af7d-57d12a75eac7")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 229.362 120.396 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "20c37118-6798-4e65-99ee-322b03baf17b")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 287.274 193.548 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "20c641ea-113f-4e09-9013-ad2e4e2785a9")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 220.726 311.658 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "216c0e9d-c45f-491d-90a3-90d30a778d8e")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 124.968 203.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "23929784-be8a-4ab4-837e-57c34d4baa9a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 408.686 234.696 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2511eb84-d434-43a6-852c-d748c0cc196b")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 144.78 114.046 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "26a04e5b-418d-433e-a0c9-5c50d5965bcf")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 215.138 109.728 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2736c568-5e34-4306-ae0e-b8756d53afe6")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 99.314 161.544 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "273a4ad4-ffb0-419c-a5c0-2f64c382a004")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 232.156 238.506 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "27c38a3a-f181-419c-b15a-fa822dae702f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 103.378 190.246 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "27e4d440-9876-41d5-9247-240dcfb12330")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 385.064 122.682 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "27f8a919-6157-4fd2-8d66-4efc635493d0")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 228.854 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "283cb535-92cd-4d00-9786-088c0c8cb56d")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 372.872 268.986 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2866bc26-3769-4ff9-befb-cd13ee89df5a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 247.65 168.148 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "286e6ce0-e6b0-482f-95cd-c9899d4fdaed")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 186.182 301.498 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "28933930-2e12-4173-adb1-515730553bc5")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 392.938 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2b8e4982-1503-41f1-bdf5-a64c5846408d")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 166.116 316.992 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2b9dc060-0763-4320-917b-d974be6e9faa")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 272.034 201.422 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2bc97c9e-244a-4abe-bc37-55033601a2a9")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 378.206 282.702 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2feb1200-d6b2-43b8-bed5-60ee93f83960")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 426.466 277.114 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "302d5214-de82-4853-a255-d6b110a8b3e8")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 245.872 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "30559c60-be25-45eb-839e-6281efb4d1d1")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 180.34 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "30b19e44-0a35-4e63-93df-4dd64446c4e0")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 144.272 97.282 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "311785a0-0d9a-44ec-9a8d-a91fb7c57b5b")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 177.038 202.692 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3486e974-5756-4a5c-ae2a-0cd6d8ce72f8")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 223.52 77.216 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "348d7adf-0391-42e7-a926-eeff64133c29")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 309.626 200.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3496fda8-0f0b-47ff-8584-3740c0cc741e")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 368.046 197.104 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "35a343f7-35ec-4133-8019-ce2f9fc1e312")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 217.17 147.574 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "36c987c5-ca04-46d2-a88f-47783affdda7")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 204.978 177.546 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "36f18810-94d0-4118-b416-3f0293a6faf6")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 205.74 231.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "36fe47e2-5feb-4487-9ca0-5fb49b2edfb1")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 373.38 284.48 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3761c87c-db15-4d41-88c6-12a12dd708e2")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 422.402 292.608 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3794f484-19e2-4755-b786-80a05af08918")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 278.638 106.426 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "38ad926e-f493-4b61-b4dc-6dc5b3d8814f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 243.84 234.188 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "38c0a4a5-c1f5-4e03-8d2f-e28789820359")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 259.08 317.246 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "390b787a-7098-4ad5-831f-f0227385b503")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 202.692 301.498 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "39913d34-85f6-49d5-bc48-857a00af51e2")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 437.896 240.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "39a132ce-cc0d-4085-9a2a-8d13b98a8f22")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 179.07 177.292 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "39ab6d97-96f3-410d-a985-83a7c44279ad")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 161.29 116.586 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3a8fbf81-7c16-47ea-85db-0ff21f54b883")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 366.776 306.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3ac6193a-4d95-4fcd-ac46-2f3ec9ebf65e")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 244.856 190.246 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3acddfc1-0d48-4bdf-9c70-d3b9a6113628")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 408.432 266.192 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3af7e64c-aee8-4ca1-a645-3c7e6395e791")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 348.996 306.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3c235a2c-0cf3-495e-a49b-b4bb5fea6dbb")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 295.656 242.57 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3c2a696e-00de-48a9-b219-2d23db715c1b")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 188.937 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3cd88461-bdea-4c81-8881-0438e06f44a2")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 173.99 117.094 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3d22c1ce-ec77-406f-9eb5-420d0ebec575")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 338.074 219.71 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3e3c361e-b6c0-47fa-86c8-cbd7982c4769")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 314.96 116.078 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3f4b250f-baa0-494a-aa19-efcd2beb0163")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 387.858 290.576 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3fb63076-7884-4588-8154-25d0d5164d04")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 162.814 255.27 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "400f099c-7e10-4be8-a679-07f186308a9a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 336.296 206.756 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "40556e5b-5fe5-4052-a745-989325441250")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 327.66 179.324 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "423c1197-c85c-4b7d-8cc2-51e4d763b33c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 283.972 200.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4278f473-27b5-497e-aafd-5d5fdb1d9dc8")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 266.446 197.612 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "45efa9f1-3e4d-4231-98c3-71c9beb9fd9f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 357.378 272.288 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4601ae51-9b3b-4fc4-8165-302c2fb33b0f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 405.892 99.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4607670e-6ebc-4d99-98b3-d2ba6acf352e")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 210.058 185.674 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "465a24f0-9826-4866-b918-bdf66eec1bf5")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 412.496 143.256 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "465a5b6b-b48d-45a6-9b1c-dd14d7eccc1f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 274.32 202.184 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "46b83056-92bb-4574-8453-fddf49dffc90")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 119.126 302.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4778c650-543e-407d-b1c7-211ad8a69f20")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 229.108 302.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "47f51ac9-7d69-475d-90f8-0b4dad3d9393")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 320.04 133.096 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "47f858e6-6bed-47b4-87f3-ba27b50f353d")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 292.1 216.408 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "487020aa-db69-4432-a1a7-c8808221a0cb")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 199.136 68.834 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "488354be-a854-43de-93dc-aeb737291b11")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 121.158 175.514 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "48aa136f-cc89-45b1-8eef-8f7e880fd16d")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 460.248 303.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "492e9eb4-bb6c-49c8-b708-176f0fe79a7f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 121.92 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "499f0d41-3c83-459e-9b9d-47e778d7deb2")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 388.62 164.338 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "49e9d802-08f0-48f8-b8b7-916248833534")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 158.1546 311.9446 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4c0df37b-2727-453b-a36d-f2ebdc029306")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 370.586 202.184 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4c4e6e51-89f8-437d-9d2b-db1b32dfed29")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 170.942 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4e715e17-6de2-4f15-9d88-484295e21a33")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 236.474 76.962 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4efc7681-8604-4418-a786-f14b8f430f76")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 175.768 279.146 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4f10de1b-86d7-497a-8c97-38cf8cd288c4")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 292.1 205.232 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "501309cb-1a9d-4f48-9d16-6375771ca072")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 383.032 227.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "50c35169-c47d-4bb9-883d-c350acbcd174")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 103.886 201.422 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "50ea0f72-5689-4c4c-9271-fd30d313a080")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 421.64 118.872 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "51ede771-29d2-42a5-ae2c-bb869f4837fc")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 232.918 186.69 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "52fcaff4-5a86-4372-a436-64300989dbc3")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 195.326 112.776 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "54f6d493-c4c9-4f30-9f31-e3cfdbb623f7")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 290.83 180.594 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "552982cf-bdf9-4e10-8f2c-c598b8ee97fd")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 271.78 263.652 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "561909b0-3d7c-482a-9d19-06dd50753244")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 230.124 294.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5630d0a8-8834-4315-81f8-97722de027d4")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 220.726 177.8 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5659fcf3-73f5-4ab1-9863-8d61699821c5")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 133.604 129.54 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "569d3aa9-ddcf-4c20-a751-57ca166657b3")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 298.958 206.248 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "57340bd9-9183-4ea5-bbfd-5eae8a317d25")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 337.058 139.192 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "576af76d-0950-43a4-ab0b-4acc03961e03")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 119.126 318.262 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "587075cb-9996-46a7-86f1-63aa7508df04")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 321.818 171.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "599dd73a-899b-443c-9ca8-81ee638345df")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 261.366 196.342 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "59a0e9f2-c2ae-437f-9b4e-f4a0ea9088ac")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 240.538 312.928 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "59b54259-29dc-43ef-8002-2d4ecdd35667")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 385.826 139.446 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5a120052-5e40-43ba-89f3-355b588d577c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 159.766 239.268 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5a20585c-2ff7-4054-b304-5fff21e21806")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 243.078 267.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5c652004-a549-41a7-a3d2-8893ad21d2ed")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 247.65 292.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5db319c9-697e-4875-975a-711949643bce")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 370.078 148.844 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5ddc692b-c386-4d21-b585-9605e7572627")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 264.668 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6024d4d3-e4cd-4729-a28b-12207ce2abc3")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 281.94 177.546 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "62baddbb-2c90-45d6-9089-521aa9bdfe13")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 296.164 289.052 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "633e1f5e-0d1a-4b61-a084-ad7587e82b49")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 322.58 233.172 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "647afc7d-683b-4ee7-8778-111d27747091")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 271.526 275.082 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6671f944-bd48-4e90-9222-eb86de4c6610")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 295.656 224.028 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "66aee05b-6f23-49fd-a542-f34763289feb")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 338.074 262.636 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6812de6e-6c48-46fa-964d-973dade99fdf")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 194.818 310.642 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "692fdf34-7c3d-491e-b645-394c6fd3904a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 308.61 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "69b96a68-61d0-49bd-8ba2-af857ea79b33")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 303.53 294.386 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6c34c554-39c4-4a5f-bfcc-2925dcb54df6")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 314.198 66.802 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6e93ebb7-e38c-493e-ae23-81c63f304bd5")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 403.098 219.964 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6f796ff3-2c1f-4f14-b862-2a6eb64308dc")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 411.226 227.584 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "720ada75-8307-4a9e-af1d-2bb11a029751")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 463.296 94.234 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "72633289-0240-4b46-b7cb-f4aab9816295")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 340.106 146.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "740f708c-c2eb-43d0-8a8b-9a4cf1d711c1")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 319.024 297.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "752b8bb8-c375-463c-8c5a-d41cce31daef")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 236.22 198.628 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "76394da4-c378-4b22-ad4e-d70f9febb0a8")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 407.416 160.528 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "77815c29-3335-46b0-aaeb-d61ae3408e33")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 325.374 256.032 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "77fb3ef9-0c5d-46f7-ab27-69aa4952cce4")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 392.938 210.058 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "78345ffb-7cea-47f5-86e6-c6b0cd0057c6")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 350.52 193.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "793e9fc7-9416-4f87-a991-11a5280e55ef")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 363.474 271.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7a3dfd0b-5512-428b-b53f-0e4b549c9515")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 159.766 301.752 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7a3ebcf8-86b5-44ca-9f33-3a1492888da7")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 466.344 261.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7b4f101f-e6d5-4c55-9f83-9bd82bff7630")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 145.796 199.39 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7b9b6e7e-d042-4574-aaec-e587ee7bffca")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 148.082 109.474 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7c363407-5137-4583-a174-6e29f4ebbe09")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 382.016 109.982 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7cede7ff-d84a-4ae7-8d5c-77f455e3f713")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 210.82 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7e1f8ca8-6682-4d2a-a8c0-4a716c10f75c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 93.98 188.976 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7e353bb5-1675-4fc8-afe0-145a2ee4969c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 413.766 298.45 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7f5a5fc8-adab-44fe-a391-bd2510d7dde9")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 447.802 270.764 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "823bb778-61e2-4d1a-9062-505ab6aba653")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 324.104 217.17 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "839f782e-1579-4351-95cc-aaaf6757dd12")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 298.196 236.728 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "846be4e9-5aef-4682-b5b7-42aca4299fcf")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 284.988 240.538 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "85bc6718-a6ab-4bc0-89fd-1bf8da7ea4de")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 355.854 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "85ef841c-beee-448b-a154-1ab3cee25e7a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 362.712 255.016 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8676676e-622c-432b-a540-1562e66729ef")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 307.848 155.448 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "876a606b-2e8b-43c0-bc0a-e29579640090")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 116.332 208.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "883570d7-1930-4db0-9e8e-8c0e117f0e86")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 219.964 199.136 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "88a7bf2b-8775-408e-85a3-4ba7dc17360a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 427.736 233.426 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "88f20e56-0d65-48cc-ac6b-af52c9e768b0")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 264.668 177.038 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "89d65fc4-b20e-400c-b536-070120c1618b")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 286.512 205.486 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8a03b913-414c-4a81-a67f-5f7f3d979d93")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 175.26 246.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8a4bb1d0-6370-490d-b541-4ebef37c158c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 296.164 263.652 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8bc05f2b-7bd8-41a7-a5ea-b98a6e63512f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 211.2635 167.9775 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8beadc72-2b22-4b4f-aa73-6041a923fecf")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 279.4 176.53 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8bf98611-af29-458f-8625-3d704c9a4151")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 463.804 149.352 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8c191269-b186-46ab-ad17-3f02f544e3ef")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 382.27 127.254 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8ccd4abd-d139-419a-aff4-e87587c30299")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 274.32 275.336 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8d7e5867-e3c1-4587-b443-64961637bab1")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 208.026 279.146 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8fc937e8-cfb4-4649-b136-f6f3529a6343")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 367.03 103.124 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8fda9544-005b-4797-bb27-17255cd33c42")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 448.564 294.132 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "90f06fb6-fc7f-4d6a-9bc6-295f54c22c97")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 404.114 292.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "91a335dd-db45-4aea-a862-b2f0b9600411")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 99.06 158.242 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "91dd4851-13cd-4166-8439-d5d48685191e")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 463.55 197.104 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "920d8ad7-3b7d-4885-a758-ec6928528f47")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 368.046 185.928 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "92c242bd-b00d-4987-840d-604db1766a2f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 378.714 212.598 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9362cbd1-5bae-472b-b162-c553b519b364")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 276.86 202.946 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9407c7df-8e5f-4b82-a9fb-d58b90e2dcb8")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 358.902 287.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "943fdc8b-bd10-4b2d-bc20-3d6a9a62b6ed")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 404.368 136.652 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "955e3c4c-6446-4b17-b140-798a36429a60")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 373.634 176.784 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "95ae056f-0a3b-4c6c-ad40-c556ce9436e9")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 261.62 262.382 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "95d618a8-9ebb-4584-8ae4-e0fda6348860")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 207.01 309.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "960740b2-f966-4e88-b4a0-3a25393c6b82")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 301.752 241.554 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "965187ec-3738-43ea-8465-aa5fde15ee9c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 277.622 263.398 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "97c31f2d-9e7d-4920-ae27-68081bb6e703")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 378.206 274.574 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "98c5dd4a-9135-4041-8a9b-3aa7dc5ef81b")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 257.81 77.978 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "99822a9f-e2c4-4c71-a9cf-0969a0dfd86a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 308.102 211.582 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "99ab32f2-d3ef-4d0b-9d54-d0ca4986201f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 322.58 155.194 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "99b6cb7d-1df9-4679-9293-212d7e752e19")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 309.88 309.626 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "99ef13c0-c988-4e5c-89c1-54e6f3f49f10")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 93.218 199.136 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9a93a3bf-aac2-41bc-bc9a-20ef8f12dd3f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 441.706 219.964 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9b0f7a6e-b20f-4003-b40b-3a7de01f989e")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 321.818 186.436 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9c35cd1d-a3c7-490b-9443-095e4a29fea5")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 321.31 201.168 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9d4dca31-0cad-4ef5-bbf9-82bda05430d5")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 387.604 234.188 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9dd50048-43ad-4d72-8fa5-d061a518f6b1")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 192.278 306.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9e393fea-f56e-457c-a488-7ff2ed0be534")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 372.618 138.684 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9ed83460-2d55-450f-a86e-839d236452ce")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 436.6576 255.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9f764e00-1aa5-497a-81dd-7c1db32bc4b1")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 337.82 284.734 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a0440656-74b1-4cf0-aa41-0caa54f9852f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 181.864 169.418 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a1349e4d-2271-46c3-8274-1ddc825ec756")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 86.36 200.66 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a1d53bf7-c15b-4619-a7cb-34962ae4a263")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 319.532 257.048 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a2f4d1ad-29da-4487-9ee5-69065dc4b48a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 200.66 130.556 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a3bb390e-a07b-4e88-9f58-98fe48fc1b10")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 419.862 255.016 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a3cf4bdb-27c1-43a5-9c38-a9e5a1bf791c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 289.052 268.224 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a47728c1-9d6b-4ac3-ac35-561289a998bc")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 332.994 224.536 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a4e2de35-7fe4-4253-94f2-efe92ecc7617")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 227.33 212.344 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a5289b23-8be0-4ed7-8b9b-cf8f73b108b6")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 427.99 261.366 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a536180b-f923-44f8-ae72-3dd9ff83603d")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 107.95 260.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a5a05bc8-8606-42f2-b227-77cfa590c5e7")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 120.904 279.908 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a5fbf165-c1f3-4411-8214-b37103818c31")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 166.37 264.414 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a6465f4e-5fb3-4cd1-ba84-1721249603c8")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 191.008 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a6c4f896-4588-4fa2-a6d1-1fcf6916171e")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 137.16 212.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a6f3b254-ee56-48d4-b0e7-0a6130102a1e")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 372.618 309.372 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a76a3ad1-33e3-450d-aaf5-c70a44852a5c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 435.864 294.894 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a791082b-2f1f-484f-9f0b-217bc0eb721f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 393.446 297.688 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a8506b78-99b6-4b5a-961c-6ed1cb8d5813")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 381.508 138.684 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a86ee5a3-fe4b-4e1a-a943-2d2bcd936295")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 265.43 155.956 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a879ef35-46dc-40be-bf33-d3f7411e0557")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 302.26 278.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a93b2397-b0fc-49f5-894f-3a8e4f14ef9d")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 463.042 246.888 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a9a095f0-7f33-4b5a-a110-5765649819fe")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 231.9142 168.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "a9f58333-5eb1-4617-aae3-9e5f3fcc03db")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 329.946 226.822 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "aac09065-3f18-4475-8b53-50eec4fd4dfe")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 356.87 144.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "aadbcf4d-2fe3-40cb-983d-4731e1ef4227")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 448.056 231.648 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ad7b34cf-bc9b-446b-ba38-7d6ba9721421")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 378.206 246.888 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b0c084ef-fcef-4832-b2d0-ece88844f7a4")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 411.48 277.114 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b1f4c86d-893c-4a4c-8104-7b4f73d3e300")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 229.362 152.146 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b4a4f1e8-d063-464b-9b6e-ba85d4d696bd")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 261.112 130.556 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b4cbb687-8cd0-48b8-a6c5-4882c5c8203e")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 260.604 270.256 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b697a2e0-648c-43b1-83ac-c30381960469")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 343.662 233.934 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b746b484-6b8a-41ff-b09b-61f81a8c8f30")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 418.084 270.002 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b83a9efe-e16d-4e90-9134-90d809ec527b")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 133.858 226.314 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b8e65f87-7971-4bc5-9240-6c4bd92e5304")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 183.388 154.432 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b940627b-9fca-47fa-9636-0b5b73c31a1d")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 246.888 221.742 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b9c8d853-75b1-4c3d-aac0-5c5101e596b2")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 385.572 196.088 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "babb89d5-2a19-4491-93e8-b84459c22d89")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 187.198 96.52 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bae09fb9-8764-4d1c-b209-6c5cb6cc96cc")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 145.034 169.926 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bb1a74e3-8ab5-4df8-90d5-93ab256d77a4")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 327.66 194.056 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bdd57bb9-0fa0-4c79-850a-ac1707c6a9ec")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 402.59 243.586 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "be58769c-20f0-4121-956d-c916cadc0dca")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 422.656 303.784 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "be61652d-e13a-4466-8823-d7dba78c491c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 307.848 171.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c18543c2-03f5-4b8d-8d95-ad3075f50a74")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 264.414 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c35b5af6-a6b0-4c9b-b40d-ca04713ac8d7")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 290.322 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c4c17bf5-3a5f-4d9a-8bcc-17ceecdebe55")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 135.382 256.794 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c4e32fb6-d732-49ab-a1dc-f4724e0aa90c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 324.866 227.584 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c6506000-271a-4330-8ba3-408a321ddcfa")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 181.356 185.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c6d639de-1b1b-428f-8d96-98dfa9a11fea")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 353.06 283.21 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c6fe1519-a955-4d59-a394-593b056e7a13")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 94.488 172.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c77d84e2-d0f5-4cff-9af3-7f137a3c3a4f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 249.682 249.936 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c7b05cf1-4f12-4a6b-9287-0cb50c658ac1")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 337.058 120.65 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c86241fa-02f0-422d-bbe8-ed7747a1679a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 192.024 194.056 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c8992f9c-8d71-48d0-aae6-d4efbea301ae")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 269.494 198.12 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c89e8afb-886f-4422-97ec-80c168ae5629")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 454.152 273.812 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c92a55b8-8767-4cfd-9a5e-f131f50ef22f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 346.456 266.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ca3acaad-a019-415c-a079-ca468db5e690")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 367.792 232.156 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cb2121b9-db10-43b2-9df3-e6b7f19a77b9")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 135.89 94.742 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cc667153-0488-4483-bda8-4610a765f82c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 383.794 90.932 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cc6ae7d6-bcc4-428b-bf40-430036c48e06")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 323.596 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ccadf8ec-2680-4aaa-abe5-4938d9e6d821")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 394.97 185.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cd37f9ee-425b-462d-81b7-f945cd42e1bc")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 289.814 136.906 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cee03000-92fa-4540-9724-869d538e41ca")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 264.414 229.616 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ceea7604-9d32-4822-a4fc-84e30e1af395")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 309.88 293.624 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cef4fe3c-56c4-4bd7-a9d2-2221a02329dc")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 256.286 257.556 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d1cc1a18-bf00-44c0-abd9-ff5a86fd11bc")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 391.414 262.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d4d4cb88-63c3-46a3-99fb-6ad3fcecd4bc")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 369.062 283.972 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d509a308-a866-41fc-bd2c-965e6d602dd5")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 401.828 66.802 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d56a77d2-fba0-4fe3-95b5-d22b299b2e88")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 281.686 297.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d5d5cf8c-f51b-4cca-8256-4de53c94663f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 369.316 245.364 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d6776955-cace-4afd-bb80-39bcfff549cd")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 426.466 252.222 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d67dc597-7276-4b4d-ad82-06e39b753642")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 401.32 263.398 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d6a08078-04df-4c21-b07d-1fbdf84d9754")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 258.318 299.466 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d7ce7b77-6c7d-45eb-b1c5-4fd66157c9d5")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 170.434 239.776 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d8d6157b-725b-43cd-9ba6-1a039c2a3a1d")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 357.0872 248.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d99fce90-e73f-4460-a2e4-ba813f6d028c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 447.802 275.082 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "daa152ea-c25e-48c4-9edb-a4c85bcf0563")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 347.218 201.168 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "de266d7b-d54c-40d3-9cb0-cd67b7211220")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 144.526 131.318 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e02aef19-b11e-4a6c-b7df-e0a457ab436d")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 388.366 125.476 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e09d877b-8d57-4325-b9cc-a5fbf93b14a1")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 274.066 263.906 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e1825ea8-3530-4426-bfb2-78906b6a3c36")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 156.21 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e3c9c680-cd80-4761-ac01-669bf7e169d2")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 330.454 294.894 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e62c1085-69e9-41fa-a7fc-038dda21740c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 448.1362 259.5156 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e713d678-8a6e-45dd-b99b-32ed92dbf699")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 337.566 186.436 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e7ab1624-ec70-43fd-9eb5-57d19bdb2fcd")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 279.4 203.2 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e82c4f71-4c8e-42dc-a11f-49872504b2d9")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 383.032 267.716 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e88dc7a8-6d91-492b-b531-4251d6076753")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 343.916 103.632 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e8cff8d0-5e54-48e8-b1d9-fa35adea08db")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 185.42 272.288 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e8d685ce-4e03-4fbe-abe0-a58393c4321a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 409.956 243.586 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e9621a4d-fdfa-44aa-89e0-955542d8112e")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 249.174 211.074 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "eb7f909f-509c-421d-9db2-b64814cfa5cb")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 304.546 223.774 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ec64c194-f2b7-40e7-82a3-abc0c74f59a6")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 345.186 274.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ec99f084-3e90-4cde-aebd-e3ba5537c03a")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 280.924 282.956 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ed4b7a10-dc0f-43fa-92f7-6e45b6f843bb")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 304.546 194.564 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ed68df78-77e5-4a47-b971-6e3414932ab6")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 107.696 279.146 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "edb7539d-347b-4794-9d81-1f012f115a68")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 170.688 162.052 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ef6d8798-f3b0-4344-a486-292721c0d105")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 314.96 234.188 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "efdaa139-f33d-4dc2-9af2-1724acbc8331")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 188.468 277.368 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "efe1abd3-d738-4ff2-9c39-8f73da9e499d")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 107.696 320.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f1037249-b307-49ff-a764-ef45f7b4dc11")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 198.374 291.846 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f280e9de-1eee-439e-90cc-a83f10690f0b")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 133.604 114.3 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f3cd9beb-0ade-42a6-8777-201f6f4e42e2")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 225.044 230.124 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f529564f-f7b7-4df6-9561-745a41556ff9")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 364.49 264.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f66a4bb4-ee4e-4c45-b3a9-d1acd5b6aad0")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 178.816 162.814 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f6858709-6d18-4085-80a5-23599c172e29")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 247.396 257.048 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f6f58b13-da11-42ef-a5b0-663ba2cd9702")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 277.368 186.436 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f70aed59-51ca-4964-9966-2bf90cf54770")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 248.412 197.866 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f7ac5f10-15f6-4f44-944b-c198b343e56f")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 327.914 124.968 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f7c57895-d9bf-4570-8deb-4578ba7656e4")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 268.224 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fa1a04dd-c9c3-4c6e-8d13-5aecd678f53c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 377.19 234.442 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fbce1cdd-068a-4e05-b475-5200e10c53bb")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 395.224 274.066 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fd40ecf2-0721-4b0e-9d40-f94b1d2ca1df")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 374.142 238.506 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fd9398ba-127e-49d2-964e-836671e9fc0c")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 217.17 210.566 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fd9a7eb1-e97c-4351-9be2-2fae8822e0e1")
+	)
+	(text "Checked"
+		(exclude_from_sim no)
+		(at 394.462 245.11 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ffbd3f59-7c85-4610-bb62-fe6a95b83c48")
+	)
+	(junction
+		(at 407.67 176.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "065fb673-7796-4e26-b9df-9d8901d62eea")
+	)
 	(junction
 		(at 426.72 240.03)
 		(diameter 0)
@@ -4958,12 +8354,6 @@
 		(uuid "1df5d628-a5b0-4d4d-aff4-56b124a26221")
 	)
 	(junction
-		(at 388.62 176.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "20214a03-f847-4b65-9457-8a68bdad4d8c")
-	)
-	(junction
 		(at 219.71 267.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4998,12 +8388,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2c61d72d-86e5-488a-b5c6-80a69f2965c8")
-	)
-	(junction
-		(at 407.67 176.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2ed5179d-89db-46bc-8e50-18689fc5425a")
 	)
 	(junction
 		(at 196.85 162.56)
@@ -5090,12 +8474,6 @@
 		(uuid "467a0a65-12de-4d3d-83db-028c60b56f12")
 	)
 	(junction
-		(at 407.67 161.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "47a6ee09-cc8d-44c3-a234-e374399cf7a7")
-	)
-	(junction
 		(at 266.7 198.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5178,6 +8556,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5adf3f34-ce65-49dc-a643-d139216853f8")
+	)
+	(junction
+		(at 335.28 158.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5aebec2e-1ba4-4f7b-b7f0-9b06daf138d1")
 	)
 	(junction
 		(at 358.14 271.78)
@@ -5384,6 +8768,12 @@
 		(uuid "9fafdf06-9670-4247-9773-9c2e300fad8b")
 	)
 	(junction
+		(at 407.67 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9fed84f2-91ca-4539-afe5-d5b20caaeed0")
+	)
+	(junction
 		(at 373.38 248.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5480,16 +8870,16 @@
 		(uuid "b7648879-3028-48a8-947e-74828a3b78aa")
 	)
 	(junction
-		(at 110.49 208.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ba3db677-36a3-4a13-b8e3-fa7d2c70184d")
-	)
-	(junction
 		(at 257.81 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb791125-c5f4-405d-8cef-b6716801d506")
+	)
+	(junction
+		(at 133.35 208.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc87dbf3-7b0b-42e3-b0a5-bbc41e0c0b7b")
 	)
 	(junction
 		(at 383.54 196.85)
@@ -5756,16 +9146,6 @@
 			(type default)
 		)
 		(uuid "01f79f10-aca2-47df-b4f5-e3be865b2e57")
-	)
-	(wire
-		(pts
-			(xy 388.62 138.43) (xy 388.62 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "023f0b4a-b513-4f3b-92ed-d4f0c253c57d")
 	)
 	(wire
 		(pts
@@ -6419,7 +9799,7 @@
 	)
 	(wire
 		(pts
-			(xy 407.67 176.53) (xy 407.67 175.26)
+			(xy 407.67 176.53) (xy 407.67 170.18)
 		)
 		(stroke
 			(width 0)
@@ -7479,7 +10859,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 208.28) (xy 110.49 208.28)
+			(xy 137.16 208.28) (xy 133.35 208.28)
 		)
 		(stroke
 			(width 0)
@@ -8009,7 +11389,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 208.28) (xy 93.98 208.28)
+			(xy 93.98 208.28) (xy 133.35 208.28)
 		)
 		(stroke
 			(width 0)
@@ -8036,6 +11416,16 @@
 			(type default)
 		)
 		(uuid "65676437-d2ec-4b11-bee5-96ce77ce5311")
+	)
+	(wire
+		(pts
+			(xy 407.67 148.59) (xy 407.67 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65e5eddf-82ee-44cc-908d-83e032b74992")
 	)
 	(wire
 		(pts
@@ -8069,7 +11459,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 212.09) (xy 110.49 208.28)
+			(xy 133.35 212.09) (xy 133.35 208.28)
 		)
 		(stroke
 			(width 0)
@@ -8259,7 +11649,7 @@
 	)
 	(wire
 		(pts
-			(xy 335.28 154.94) (xy 335.28 160.02)
+			(xy 335.28 154.94) (xy 335.28 158.75)
 		)
 		(stroke
 			(width 0)
@@ -8306,6 +11696,16 @@
 			(type default)
 		)
 		(uuid "6f2cc4d5-c7d4-472b-ac47-89b58a8fd90e")
+	)
+	(wire
+		(pts
+			(xy 407.67 176.53) (xy 355.6 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ff320b2-ceee-4feb-83db-894bda17e2a5")
 	)
 	(wire
 		(pts
@@ -8869,7 +12269,7 @@
 	)
 	(wire
 		(pts
-			(xy 378.46 222.25) (xy 393.7 222.25)
+			(xy 378.46 222.25) (xy 387.35 222.25)
 		)
 		(stroke
 			(width 0)
@@ -9089,7 +12489,7 @@
 	)
 	(wire
 		(pts
-			(xy 388.62 196.85) (xy 388.62 176.53)
+			(xy 388.62 138.43) (xy 388.62 196.85)
 		)
 		(stroke
 			(width 0)
@@ -9276,6 +12676,16 @@
 			(type default)
 		)
 		(uuid "99a18b2a-7e12-4ebe-adcf-7a1d9702204a")
+	)
+	(wire
+		(pts
+			(xy 335.28 158.75) (xy 335.28 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99cd28f8-e42a-4aa0-b4aa-2a92948784d8")
 	)
 	(wire
 		(pts
@@ -9649,7 +13059,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 195.58) (xy 233.68 195.58)
+			(xy 245.11 195.58) (xy 227.33 195.58)
 		)
 		(stroke
 			(width 0)
@@ -9886,6 +13296,16 @@
 			(type default)
 		)
 		(uuid "b39d5152-0faa-41a0-9b70-8636e1ba397a")
+	)
+	(wire
+		(pts
+			(xy 407.67 157.48) (xy 407.67 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3a699da-132c-41bd-9feb-c8f9c59e8437")
 	)
 	(wire
 		(pts
@@ -10289,17 +13709,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 204.47) (xy 227.33 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c569727b-9429-47dd-a2fd-00a80a793da7")
-	)
-	(wire
-		(pts
-			(xy 393.7 240.03) (xy 394.97 240.03)
+			(xy 387.35 240.03) (xy 394.97 240.03)
 		)
 		(stroke
 			(width 0)
@@ -10639,7 +14049,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 222.25) (xy 393.7 240.03)
+			(xy 387.35 222.25) (xy 387.35 240.03)
 		)
 		(stroke
 			(width 0)
@@ -10786,16 +14196,6 @@
 			(type default)
 		)
 		(uuid "db32ef81-d53e-400d-975d-2d611310d672")
-	)
-	(wire
-		(pts
-			(xy 407.67 148.59) (xy 407.67 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db55216d-6ebc-464f-9059-7fcecd3f5d51")
 	)
 	(wire
 		(pts
@@ -10949,6 +14349,16 @@
 	)
 	(wire
 		(pts
+			(xy 355.6 158.75) (xy 335.28 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfdaa2d3-517c-4630-9ab6-3b6ace6f76fd")
+	)
+	(wire
+		(pts
 			(xy 184.15 128.27) (xy 184.15 144.78)
 		)
 		(stroke
@@ -11066,6 +14476,16 @@
 			(type default)
 		)
 		(uuid "e439969c-7198-4c30-b954-991c76053d4f")
+	)
+	(wire
+		(pts
+			(xy 355.6 176.53) (xy 355.6 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e451779f-a95f-485b-856a-a8f893384e77")
 	)
 	(wire
 		(pts
@@ -11299,7 +14719,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 212.09) (xy 110.49 212.09)
+			(xy 146.05 212.09) (xy 133.35 212.09)
 		)
 		(stroke
 			(width 0)
@@ -11376,16 +14796,6 @@
 			(type default)
 		)
 		(uuid "ed130021-0f25-4cbd-9dec-b6fb9d6b1756")
-	)
-	(wire
-		(pts
-			(xy 233.68 204.47) (xy 227.33 204.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed3b7cd7-f55f-4042-ae26-5968ba58e441")
 	)
 	(wire
 		(pts
@@ -11659,23 +15069,13 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 195.58) (xy 233.68 204.47)
+			(xy 227.33 195.58) (xy 227.33 220.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f97c65ee-e3e8-4588-90bb-c63f761ed02f")
-	)
-	(wire
-		(pts
-			(xy 407.67 167.64) (xy 407.67 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa4505ce-a0fe-4015-8429-52224e63da91")
 	)
 	(wire
 		(pts
@@ -11726,16 +15126,6 @@
 			(type default)
 		)
 		(uuid "fda17faa-34aa-49e9-982b-66ce0372d6b1")
-	)
-	(wire
-		(pts
-			(xy 388.62 176.53) (xy 407.67 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fdbdac52-bdc1-4cbc-8590-fd95186c67b0")
 	)
 	(wire
 		(pts
@@ -21237,7 +24627,7 @@
 			)
 		)
 		(property "Value" "50V 1.5nF"
-			(at 427.228 232.41 90)
+			(at 422.402 232.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26191,7 +29581,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 407.67 171.45 0)
+		(at 407.67 166.37 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26200,7 +29590,7 @@
 		(dnp no)
 		(uuid "afd12b5b-db91-4781-8413-69710fd2fd4a")
 		(property "Reference" "C1"
-			(at 404.368 171.45 90)
+			(at 404.368 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26208,7 +29598,7 @@
 			)
 		)
 		(property "Value" "50V 1.5nF"
-			(at 410.718 171.45 90)
+			(at 410.718 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26216,7 +29606,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 408.6352 167.64 0)
+			(at 408.6352 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26225,7 +29615,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 407.67 171.45 0)
+			(at 407.67 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26234,7 +29624,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 407.67 171.45 0)
+			(at 407.67 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26243,7 +29633,7 @@
 			)
 		)
 		(property "JLCPCB" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26252,7 +29642,7 @@
 			)
 		)
 		(property "ExtendedPreferedEquivalence" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26261,7 +29651,7 @@
 			)
 		)
 		(property "ExtendedPreferedEquivalence JLCPCB" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26270,7 +29660,7 @@
 			)
 		)
 		(property "ExtendedPreferedEquivalence price@reel" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26279,7 +29669,7 @@
 			)
 		)
 		(property "ExtendedPreferedEquivalence prive@1" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26288,7 +29678,7 @@
 			)
 		)
 		(property "JCLPCB" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26297,7 +29687,7 @@
 			)
 		)
 		(property "MfgNo" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26306,7 +29696,7 @@
 			)
 		)
 		(property "basicEquivalen" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26315,7 +29705,7 @@
 			)
 		)
 		(property "basicEquivalen JLCPCB" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26324,7 +29714,7 @@
 			)
 		)
 		(property "basicEquivalence price@1" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26333,7 +29723,7 @@
 			)
 		)
 		(property "basicEquivalence price@reel" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26342,7 +29732,7 @@
 			)
 		)
 		(property "price@1" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26351,7 +29741,7 @@
 			)
 		)
 		(property "price@reel" ""
-			(at 407.67 171.45 90)
+			(at 407.67 166.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27664,7 +31054,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 407.67 161.29 90)
+		(at 407.67 157.48 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27673,7 +31063,7 @@
 		(fields_autoplaced yes)
 		(uuid "c0977727-6c7d-4c56-b143-23e1ff3b0370")
 		(property "Reference" "#PWR08"
-			(at 414.02 161.29 0)
+			(at 414.02 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27682,7 +31072,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 411.48 161.2899 90)
+			(at 411.48 157.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27691,7 +31081,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 407.67 161.29 0)
+			(at 407.67 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27700,7 +31090,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 407.67 161.29 0)
+			(at 407.67 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27709,7 +31099,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 407.67 161.29 0)
+			(at 407.67 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
